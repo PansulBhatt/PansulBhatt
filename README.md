@@ -1,4 +1,4 @@
-### Greetings!
+### Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://twitter.com/notnexpert">
   <img align="left" alt="Pansul Bhatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,11 +18,6 @@
 My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Learning and Full Stack Development.
 
 <br/>
-
-[![Pansul's github stats](https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=monokai)](https://github.com/PansulBhatt/github-readme-stats)
-
-<br/>
-
 
 **A bit about myself**
 
@@ -63,9 +58,18 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 
 <br/>
 
+[![Pansul's github stats](https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=monokai)](https://github.com/PansulBhatt/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PansulBhatt&theme=tokyonight)
 
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 <!--
 **PansulBhatt/PansulBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
