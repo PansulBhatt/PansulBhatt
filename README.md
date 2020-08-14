@@ -61,7 +61,10 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 
 
 [![Pansul's github stats](https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=monokai)](https://github.com/PansulBhatt/github-readme-stats)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PansulBhatt&theme=tokyonight)
+
+
 <!--
 **PansulBhatt/PansulBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
