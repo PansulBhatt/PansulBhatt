@@ -21,11 +21,11 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 
 **A bit about myself**
 
-- 👨🏽‍💻 I’m currently working on full stack developer;
-- 🌱 I’m currently improving my skills in ML; 
-- 🤔 I’m [Not An Expert](https://www.youtube.com/channel/UCfv3K4cWPjFkT8GWPEzD4pA);
+- 👨🏽‍💻 I’m currently working on full stack developer
+- 🌱 I’m currently improving my skills in ML
+- 🤔 I’m [Not An Expert](https://www.youtube.com/channel/UCfv3K4cWPjFkT8GWPEzD4pA)
 - 💬 Ask me about anything, I am always happy to help
-- ⚡️ Fun-Fact: I absolutely love playing basketball. 
+- ⚡️ Fun-Fact: I absolutely love playing basketball
 - 📫 How to reach me: pansul47@ucla.edu
 
 
@@ -58,6 +58,8 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 
 <br/>
 
+
+**Stats**
 <a href="https://github.com/PansulBhatt/PansulBhatt">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=tokyonight" alt="Pansul's GitHub Stats" height="250"/>
 </a>
