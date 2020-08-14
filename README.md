@@ -65,10 +65,10 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 
 
 <a href="https://github.com/PansulBhatt/PansulBhatt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PansulBhatt&show_icons=true&theme=monokai" height="200"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PansulBhatt&show_icons=true&theme=monokai" height="250"/>
 </a>
 <a href="https://github.com/PansulBhatt/PansulBhatt">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=tokyonight" alt="Pansul's GitHub Stats" height="200"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=tokyonight" alt="Pansul's GitHub Stats" height="250"/>
 </a>
 
 <!--
