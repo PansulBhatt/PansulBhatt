@@ -1,4 +1,11 @@
-### Hi. My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Learning and Full Stack Development.
+### Greetings!
+
+My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Learning and Full Stack Development.
+
+
+
+
+[![Pansul's github stats](https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=monokai)](https://github.com/PansulBhatt/github-readme-stats)
 
 <!--
 **PansulBhatt/PansulBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
