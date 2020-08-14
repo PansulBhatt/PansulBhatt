@@ -60,6 +60,7 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 
 
 **Stats**
+<br/>
 <a href="https://github.com/PansulBhatt/PansulBhatt">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=tokyonight" alt="Pansul's GitHub Stats" height="250"/>
 </a>
