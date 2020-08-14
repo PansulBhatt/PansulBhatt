@@ -1,7 +1,5 @@
 ### Greetings!
 
-<br/>
-
 <a href="https://twitter.com/notnexpert">
   <img align="left" alt="Pansul Bhatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,7 +12,7 @@
 <a href="https://leetcode.com/pansul/">
   <img align="left" alt="Pansul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
+<br/>
 <br />
 
 My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Learning and Full Stack Development.
