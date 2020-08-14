@@ -1,11 +1,5 @@
 ### Greetings!
 
-My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Learning and Full Stack Development.
-
-
-[![Pansul's github stats](https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=monokai)](https://github.com/PansulBhatt/github-readme-stats)
-
-
 <br/>
 
 <a href="https://twitter.com/notnexpert">
@@ -23,6 +17,14 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 
 <br />
 
+My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Learning and Full Stack Development.
+
+<br/>
+
+[![Pansul's github stats](https://github-readme-stats.vercel.app/api?username=PansulBhatt&show_icons=true&theme=monokai)](https://github.com/PansulBhatt/github-readme-stats)
+
+<br/>
+
 
 **A bit about myself**
 
@@ -33,15 +35,17 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 - ⚡️ Fun-Fact: I absolutely love playing basketball. 
 - 📫 How to reach me: pansul47@ucla.edu
 
-<details>
-  <summary>What is my technical expertise in? 👨</summary>
-    - Programming Languages: (Proficient) Python, JavaScript, HTML, CSS; (Familiar) Java, C, C++, R, PHP
-    - Libraries & Frameworks: Django, Flask, React, Angular, NumPy, Pandas, Scikit-learn, NLTK, TensorFlow, Spark, Kafka, Docker, Node.js
-    - Databases: MySQL, Firebase, Redis, MongoDB, SQLite, MariaDB, Postgres
-    - Cloud Certifications: AWS Business Professional, AWS Technical Professional
-    - Coursera Certifications: The Data Scientist’s Toolbox, Data Science in Python, Neural Networks and Deep Learning
-    - Version Control - GIT, SVN 
-</details>
+
+<br/>
+
+**Technical Expertise**
+
+- Programming Languages: (Proficient) Python, JavaScript, HTML, CSS; (Familiar) Java, C, C++, R, PHP
+- Libraries & Frameworks: Django, Flask, React, Angular, NumPy, Pandas, Scikit-learn, NLTK, TensorFlow, Spark, Kafka, Docker, Node.js
+- Databases: MySQL, Firebase, Redis, MongoDB, SQLite, MariaDB, Postgres
+- Cloud Certifications: AWS Business Professional, AWS Technical Professional
+- Coursera Certifications: The Data Scientist’s Toolbox, Data Science in Python, Neural Networks and Deep Learning
+- Version Control - GIT, SVN 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -59,7 +63,7 @@ My name is Pansul Bhatt. I am a Software Engineer with experience in Machine Lea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
+<br/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PansulBhatt&theme=tokyonight)
