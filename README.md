@@ -1,6 +1,6 @@
 ### Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a href="https://twitter.com/notnexpert">
+<a href="https://twitter.com/not_n_expert">
   <img align="left" alt="Pansul Bhatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pansulbhatt">
